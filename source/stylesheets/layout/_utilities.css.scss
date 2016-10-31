@@ -10,6 +10,10 @@
   padding-bottom: 5em;
 }
 
+.padded a i {
+  margin-right: 10px;
+}
+
 // Backgrounds
 .bg-text {
   background: #4a4a4a;
@@ -22,4 +26,13 @@
 }
 .bg-facebook {
   background: #3b5998;
+}
+
+// Wrappers
+.wrapper-white {
+  background: white;
+}
+.wrapper-grey {
+  background: #F4F4F4;
+  padding: 100px 20px;
 }
